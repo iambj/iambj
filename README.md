@@ -3,6 +3,7 @@
 - 🖥️ I am a PHP developer by day
 - 🌱 I’m currently learning TypeScript + React
 - 📫 You can reach me at mail@brandonj.me
+- 😓 A lot of my repos are unfinished... I get distracted by new and shiny things.
 
 <!---
 iambj/iambj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
